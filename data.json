@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "firstName": "Nithin",
   "lastName": "Gidigi",
   "phone": "9866516195",
@@ -11,14 +11,14 @@
     "village": "utukur-sydapuram-sri-potti-sriramulu-nellore-andhra-pradesh-524407"
   },
   "gallery": [
-    "https://yt3.ggpht.com/-9fWqjQ9KXb5uEMngdLpe_0L6SVGLumb-kMCDTIIEVW34l26Ebvxg-FNYOxyy2w4jTTBvwdzP5n69g=s800-nd-v1-rwa",
-    "https://yt3.ggpht.com/MESXHmyaR2E5b_Fpn-o0z1SSsq2OzpQ2JFM9_3vTHBCWULZMERmGYEvD_KbrUD1jAgnZx3JtsB5Riw=s800-nd-v1-rwa",
-    "https://yt3.ggpht.com/MESXHmyaR2E5b_Fpn-o0z1SSsq2OzpQ2JFM9_3vTHBCWULZMERmGYEvD_KbrUD1jAgnZx3JtsB5Riw=s800-nd-v1-rwa"
+    "https://yt3.ggpht.com/Pt31lfiWww7iVhMHY6aQuCvtaHdBozXfBSucrQr28F1k1xWLxSzqA-QFQ7Fb0CEjRsI__7HiQQ8i=s800-rw-nd-v1",
+    "https://yt3.ggpht.com/c1ppFkOP5qdzOdPd9Y_5mSPivOhi19X4qbBVux4uxksBvoaqCM5svNHgoOXCqKHF4ZiTjHtZndov6Ng=s800-rw-nd-v1",
+    "https://yt3.ggpht.com/bHJDuPBN2o0z_8iYG8Kx2v0TiDN3TYcyKWVCc2spxIuYylCb49sggT9r3nOu_TRM6wPI7--OcWwwSQ=s800-c-fcrop64=1,25990000da66ffff-rw-nd-v1"
     
   ],
   "videos": [
-    "https://www.youtube.com/watch?v=aSH8RxAsYJs",
-    "https://www.youtube.com/watch?v=aSH8RxAsYJs"
+    "https://www.youtube.com/watch?v=GDzamxxGc3g",
+    "https://www.youtube.com/watch?v=aQiSSyy0Ou4"
   ],
   "village": "utukur-sydapuram-sri-potti-sriramulu-nellore-andhra-pradesh-524407",
   "about": ""
